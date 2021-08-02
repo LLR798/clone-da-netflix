@@ -36,4 +36,4 @@ Utilitários
 
 ## 💻 Projeto
 
-Fiz um site de tatuagem, baseado no projeto OriginSix na next level week 6, da rockseat, que é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer.
+Desenvolvi um clone da netflix, para testar minhas habilidades nas ferramentas que estou aprendendo.
