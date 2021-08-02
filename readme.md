@@ -21,11 +21,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-- Jquery
 
 Bibliotecas
 
 - [Google Fonts](https://fonts.google.com/)
+- [Jquery] (https://jquery.com/)
 
 ## 💻 Projeto
 
